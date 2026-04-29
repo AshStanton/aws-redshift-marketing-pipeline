@@ -1,0 +1,10 @@
+{
+  "jsonpaths": [
+    "$.campaign_id",
+    "$.performance_date",
+    "$.impressions",
+    "$.clicks",
+    "$.spend",
+    "$.conversions"
+  ]
+}
